@@ -15,7 +15,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 2.  **Acesse a pasta do projeto** pelo terminal:
     ```bash
-    cd caminho/para/projeto-tarefas
+    cd trabalho_recuperacao
     ```
 
 3.  **Instale as dependências** necessárias executando o comando:
@@ -91,4 +91,5 @@ Você pode enviar apenas os campos que deseja alterar.
 ![Teste PUT](./prints/put.png)
 
 **4. Rota DELETE /tarefas/:id (Deletar Tarefa)**
+
 ![Teste DELETE](./prints/delete.png)
