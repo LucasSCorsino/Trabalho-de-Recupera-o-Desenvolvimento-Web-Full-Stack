@@ -1,0 +1,20 @@
+{
+    "name": "api-tarefas",
+    "version": "1.0.0",
+    "description": "API REST para gerenciamento de tarefas (To-do list).",
+    "main": "src/server.js",
+    "type": "module",
+    "scripts": {
+      "start": "node src/server.js"
+    },
+    "keywords": [
+      "api",
+      "nodejs",
+      "express"
+    ],
+    "author": "Lucas Soares Corsino",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.19.2"
+    }
+  }
